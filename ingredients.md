@@ -1,3 +1,9 @@
+Pickle
 Top Bun(Brett)
-Beef(DanielM)
+Horseradish
+Pickles
+Pickles
+Onion
+Dried onion flakes
+Lettuce
 Bottom Bun(Brett)
