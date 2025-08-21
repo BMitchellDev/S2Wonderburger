@@ -1,22 +1,5 @@
 Pickle(Daniel H)
 Top Bun(Brett)
-
-
-
-
-
-
-
-
-Pickles(Tristan)
-
-
-
-
-
-
+Egg(Daniel A)
 Egg(Tyler)
-
-
-Pickles(Tristan)
 Bottom Bun(Brett)
