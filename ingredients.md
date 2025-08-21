@@ -1,3 +1,7 @@
+Pickle(Daniel H)
 Top Bun(Brett)
+Dyan Sauce(Kaelan)
 Cheese(Harry)
+Egg(Daniel A)
+Egg(Tyler)
 Bottom Bun(Brett)
