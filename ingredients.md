@@ -1,6 +1,6 @@
 Pickle
 Top Bun(Brett)
-Horseradish
+Horseradish (added by Tom)
 Pickles
 Pickles
 Onion
@@ -19,8 +19,3 @@ patty (Patricia)
 Egg(Daniel A)
 Egg(Tyler)
 Bottom Bun(Brett)
-
-
-
-THIS IS A CHANGE
-
